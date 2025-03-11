@@ -1,14 +1,12 @@
 ---
 permalink: /
-title:
+title: About me
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-======
 I am a fourth-year Ph.D. candidate in the Department of Information Engineering at **The Chinese University of Hong Kong (CUHK)**, advised by  [Prof. Henry He Chen](https://www.ie.cuhk.edu.hk/faculty/Chen-He-Henry/) and [Prof. Tianfan Xue](https://tianfan.info/) as part of the [Wireless Networking and Sensing (WiNS) Group](http://iiotc.ie.cuhk.edu.hk/). My research focuses on developing **wireless technologies for robotic platforms**. This work aims to enhance robot operational capabilities and improve wireless sensing with greater coverage.
 
 Prior to joining CUHK, I conducted research at the [Intelligent Perception (IP) Lab](https://ustc-ip-lab.github.io/) at the **University of Electronic Science and Technology of China (UESTC)**, collaborating with [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ) to develop **human-centric wireless sensing** systems. 
