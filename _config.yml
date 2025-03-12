@@ -13,7 +13,7 @@ title                    : "Hongyu Deng"
 title_separator          : "-"
 name                     : &name "Hongyu Deng"
 description              : &description "personal description"
-url                      : https://pxq3729.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://pxq3729.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof_pic.jpg"
   name             : "Hongyu Deng"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate"
   location         : "Hong Kong"
-  employer         : "The Chinese University of Hong Kong"
+  employer         : "CUHK"
   uri              : # URL
   email            : "hydeng@link.cuhk.edu.hk" 
 
