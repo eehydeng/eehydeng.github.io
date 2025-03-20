@@ -8,8 +8,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Awards & Services"
-  #   url: /awards/
+  - title: "Awards & Services"
+    url: /awards/
+
+  # - title: "Blogs"
+  #   url: /blogs/
 
   # - title: "Talks"
   #   url: /talks/    
