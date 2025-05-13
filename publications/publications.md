@@ -11,6 +11,10 @@ Please see <a href="https://scholar.google.com/citations?user=7-LY3QsAAAAJ&hl=en
   **Hongyu Deng**, Tianfan Xue and He (Henry) Chen<br>
   *IEEE Transactions on Mobile Computing  (**TMC**), 2025.*
 
+- [SRAL-IRS: Swift, Robust, and Accurate IRS-aided Localization with COTS WiFi](https://ieeexplore.ieee.org/abstract/document/10994341)<br>
+  Ganlin Zhang, Dongheng Zhang, **Hongyu Deng**, Zhi Wu, Xuecheng Xie, Yun Wu, Fengquan Zhan and Yan Chen<br>
+  *IEEE Transactions on Wireless Communications  (**TWC**), 2025.*
+
 - [Practical Passive Indoor Localization With Intelligent Reflecting Surface](https://ieeexplore.ieee.org/abstract/document/10557701)<br>
   Ganlin Zhang, Dongheng Zhang, **Hongyu Deng**, Yun Wu, Fengquan Zhan and Yan Chen<br>
   *IEEE Transactions on Mobile Computing  (**TMC**), 2024.*
