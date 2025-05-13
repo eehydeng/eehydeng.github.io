@@ -14,7 +14,7 @@ Prior to joining CUHK, I conducted research at the [Intelligent Perception (IP) 
 My work targeted performance and robustness improvements on wireless sensing, leading to innovations in following areas:
 
 - **Robotic Manipulation**: Radar-camera fusion for transparent object grasping ([TMC'25](https://ieeexplore.ieee.org/document/10909339)).
-- **Intelligent Sensing**: IRS-aided indoor localization ([TMC'24](https://ieeexplore.ieee.org/abstract/document/10557701)).
+- **Intelligent Sensing**: IRS-aided indoor localization ([TWC'25](https://ieeexplore.ieee.org/abstract/document/10994341), [TMC'24](https://ieeexplore.ieee.org/abstract/document/10557701)).
 - **Mobile Health**: Contactless human speed estimation ([IoTJ'21](https://ieeexplore.ieee.org/abstract/document/9187251)).
 
 
